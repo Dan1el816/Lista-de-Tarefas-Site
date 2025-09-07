@@ -1,4 +1,3 @@
-const { createElement } = require("react");
 
 function adicionarTarefa() {
   let mensagem = "Tarefa adicionada com sucesso!";
@@ -18,3 +17,4 @@ function adicionarTarefa() {
 
  
 }
+
